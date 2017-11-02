@@ -2,3 +2,7 @@
 /.idea/
 /out/
 /KotlinDemo.iml
+/src/com/yh/kotlin/Proxy.kt
+/src/com/yh/kotlin/Proxy1.kt
+/src/com/yh/kotlin/TestCloseCode.kt
+/src/com/yh/kotlin/dsl.kt
